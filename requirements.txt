@@ -1,0 +1,10 @@
+snscrape
+pandas
+emoji
+re
+string
+nltk
+transformers
+tensorflow
+numpy
+torch
